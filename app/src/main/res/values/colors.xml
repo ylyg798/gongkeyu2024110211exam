@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- 学号尾号为 1，按要求把 APP 文字颜色设置为红色 -->
+    <color name="text_red">#D32F2F</color>
+    <color name="red_light">#FDECEA</color>
+    <color name="divider">#EEEEEE</color>
 </resources>

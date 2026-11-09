@@ -1,8 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Gongkeyu2024110211exam" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- 学号尾号为 1，主题主色同样使用红色，保证界面配色统一 -->
+        <item name="colorPrimary">@color/text_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/text_red</item>
+        <item name="colorOnSecondary">@color/white</item>
     </style>
 
     <style name="Theme.Gongkeyu2024110211exam" parent="Base.Theme.Gongkeyu2024110211exam" />

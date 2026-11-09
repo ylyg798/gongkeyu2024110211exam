@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">gongkeyu2024110211exam</string>
+    <string name="app_name">学生信息管理</string>
+    <string name="main_title">龚科宇 2024110211</string>
+    <string name="add_title">添加学生</string>
+    <string name="student_info">学号：%1$s　性别：%2$s　班级：%3$s</string>
+    <string name="label_stu_id">学号</string>
+    <string name="label_name">姓名</string>
+    <string name="label_gender">性别</string>
+    <string name="label_class">班级</string>
+    <string name="hint_stu_id">请输入学号</string>
+    <string name="hint_name">请输入姓名</string>
+    <string name="hint_class">请输入班级，如 计科2403</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="btn_add">＋ 添加学生</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="tip_empty">学号、姓名、班级不能为空</string>
+    <string name="student_count">学生信息列表（共 %1$d 条）</string>
 </resources>
