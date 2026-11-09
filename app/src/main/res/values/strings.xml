@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">学生信息管理</string>
-    <string name="main_title">龚科宇 2024110211</string>
+    <string name="main_title">龚柯予 2024110211</string>
     <string name="add_title">添加学生</string>
     <string name="student_info">学号：%1$s　性别：%2$s　班级：%3$s</string>
     <string name="label_stu_id">学号</string>

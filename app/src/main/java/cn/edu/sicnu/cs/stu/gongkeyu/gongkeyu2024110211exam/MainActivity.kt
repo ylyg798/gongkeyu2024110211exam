@@ -80,8 +80,8 @@ class MainActivity : AppCompatActivity() {
 
     /** 初始化几条示例数据，便于打开应用即可看到列表效果 */
     private fun initData() {
-        studentList.add(Student("2024110101", "李明", "男", "计科2401"))
+        studentList.add(Student("2024110101", "李明", "男", "计科2404"))
         studentList.add(Student("2024110102", "王雨欣", "女", "计科2402"))
-        studentList.add(Student("2024110211", "龚科宇", "男", "计科2403"))
+        studentList.add(Student("2024110211", "龚柯予", "女", "计科2401"))
     }
 }
